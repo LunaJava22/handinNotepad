@@ -1,0 +1,19 @@
+Luna Said
+
+
+Which git command would you use to:
+
+View the history of the repository
+If there are outstanding commits to do
+Start a new repository
+
+
+Svar:
+
+1. 
+Navigera direkt till commits-sidan i ett arkiv. 
+Klicka på en fil och sedan på Historik för att komma till commit-historiken för filen du vill åt.
+ 
+2. 
+
+3. Det kanske finns fler sätt att skapa nytt arkiv på men jag brukar klicka på "+" tecknet, döpa arkivet och sedan välja om den ska vara public/privat. 
